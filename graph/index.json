@@ -1,11 +1,20 @@
 {
   "graph": {
+    "/notes/uhc-ceo-execution-open-letter-to-ruling-class/": {
+      "in": [],
+      "out": []
+    },
     "/notes/workforce-automation-endgame/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
+    "/notes/uhc-ceo-execution-open-letter-to-ruling-class/": {
+      "permalink": "/notes/uhc-ceo-execution-open-letter-to-ruling-class/",
+      "section": "notes",
+      "title": "UHC CEO Execution: An Open Letter to the Ruling Class"
+    },
     "/notes/workforce-automation-endgame/": {
       "permalink": "/notes/workforce-automation-endgame/",
       "section": "notes",
